@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Clinical%20Risk%20Monitor&fontSize=40&fontColor=E6EEF3&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -77,6 +76,7 @@ Using a **weighted composite scoring model**, the system produces:
 ---
 
 ## 🧬 System Workflow
+
 
 ```
 
