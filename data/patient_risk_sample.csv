@@ -1,0 +1,11 @@
+patient_id,name,ward,age,heart_rate,systolic_bp,spo2,temperature_c,cholesterol,blood_glucose,bmi,family_history,smoking_status,last_update
+P-1001,Asha Rao,ICU,68,118,168,90,38.8,248,226,31.2,yes,former,2026-05-04 08:05
+P-1002,Marco Bellini,Cardiology,57,96,142,95,37.4,221,154,28.1,no,never,2026-05-04 08:06
+P-1003,Lina Chen,Emergency,74,132,184,88,39.1,266,301,33.7,yes,current,2026-05-04 08:08
+P-1004,Noah Singh,General,45,82,124,98,36.9,188,102,25.4,no,never,2026-05-04 08:09
+P-1005,Sofia Martin,ICU,62,108,155,92,38.2,236,188,30.5,yes,current,2026-05-04 08:10
+P-1006,Ethan Brooks,Cardiology,51,91,136,96,37.2,205,139,27.6,no,former,2026-05-04 08:11
+P-1007,Amara Okafor,Emergency,39,104,148,94,38.0,197,167,29.0,yes,never,2026-05-04 08:12
+P-1008,Giulia Conti,General,34,76,118,99,36.7,174,94,23.6,no,never,2026-05-04 08:13
+P-1009,Daniel Kim,ICU,71,124,172,91,38.6,259,244,32.4,yes,current,2026-05-04 08:15
+P-1010,Maya Patel,Cardiology,60,88,146,97,37.1,230,171,26.8,yes,former,2026-05-04 08:16
